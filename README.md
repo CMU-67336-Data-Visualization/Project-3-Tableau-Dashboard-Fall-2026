@@ -5,10 +5,10 @@
 
 In this project, you will use Tableau to design and develop a dashboard to tell story about Pittsburgh crime using Western Pennsylvania Regional Data Center (WPRDC) datasets of Police Incident Blotter and Pittsburgh Policy Arrest. 
 
-Open **`Project_3_Tableau_Pittsburgh_Crimes.docx`** for detailed instruction.
+Open **`Project_3_Tableau_Pittsburgh_Crimes.pdf`** for detailed instruction.
 
 ## Files in this folder
 
 | File | Purpose |
 |---|---|
-| `Project_3_Tableau_Pittsburgh_Crimes.docx` | Full project instructions |
+| `Project_3_Tableau_Pittsburgh_Crimes.pdf` | Full project instructions |
